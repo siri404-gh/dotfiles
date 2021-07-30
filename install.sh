@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+set -e
 
 alias c='clear'
 alias edit='vi ~/.bash_profile'
