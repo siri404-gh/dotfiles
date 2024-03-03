@@ -6,7 +6,7 @@ alias c='clear'
 alias edit='vi ~/.bash_profile'
 alias src='source ~/.bash_profile'
 alias l='ls -lahG'
-alias ls='ls -G'
+alias ls='ls --color=auto -G'
 alias o='open .'
 alias path='echo -e ${PATH//:/\\n}'
 
