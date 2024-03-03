@@ -1,6 +1,3 @@
-#!/bin/bash
-shopt -s expand_aliases
-
 alias c='clear'
 alias l='ls -lahG'
 alias ls='ls --color=auto -G'
