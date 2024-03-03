@@ -2,4 +2,4 @@
 
 set -e
 
-ln -sf ".aliases" "${HOME}/.bash_profile"
+ln -sf "~/dotfiles/.aliases" "${HOME}/.bash_profile"
