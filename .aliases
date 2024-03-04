@@ -61,10 +61,8 @@ alias glgb='git log --graph --max-count=10'
 alias gldo='git log --decorate --oneline'
 alias gldgo='git log --decorate --graph --oneline'
 alias gladgo='git log --all --decorate --graph --oneline'
-alias glog='git log --graph --pretty='\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue
-)<%an>%Creset'\'' --abbrev-commit'
-alias gloga='git log --graph --pretty='\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blu
-e)<%an>%Creset'\'' --abbrev-commit --all'
+alias glog='git log --graph --pretty='\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'\'' --abbrev-commit'
+alias gloga='git log --graph --pretty='\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'\'' --abbrev-commit --all'
 alias glp='_git_log_prettily'
 
 alias gp='git push'
